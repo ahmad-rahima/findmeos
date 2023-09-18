@@ -1,0 +1,50 @@
+Ubuntu: 95/100
+Debian: 90/100
+CentOS: 90/100
+Fedora: 85/100
+Arch Linux: 80/100
+openSUSE: 95/100
+Linux Mint: 90/100
+Manjaro: 80/100
+Kali Linux: 80/100
+Raspbian: 85/100
+Red Hat Enterprise Linux: 90/100
+CentOS Stream: 90/100
+Gentoo Linux: 70/100
+Slackware Linux: 50/100
+Alpine Linux: 50/100
+Clear Linux: 70/100
+Tails: 60/100
+Elementary OS: 90/100
+MX Linux: 95/100
+Raspberry Pi OS: 85/100
+Ubuntu Studio: 95/100
+Zorin OS: 95/100
+Solus: 85/100
+CentOS Linux: 90/100
+Pop!_OS: 95/100
+Fedora Silverblue: 80/100
+Parrot Security OS: 80/100
+BlackArch Linux: 50/100
+Endless OS: 90/100
+Android-x86: 50/100
+NixOS: 80/100
+PCLinuxOS: 70/100
+Mageia: 90/100
+Oracle Linux: 90/100
+Calculate Linux: 60/100
+Bodhi Linux: 80/100
+Ubuntu MATE: 95/100
+Kubuntu: 95/100
+Xubuntu: 95/100
+Lubuntu: 95/100
+Ubuntu Budgie: 95/100
+OpenSUSE Leap: 95/100
+Scientific Linux: 90/100
+Tiny Core Linux: 50/100
+ArchBang Linux: 70/100
+PureOS: 80/100
+Ubuntu Server: 90/100
+Debian Edu: 95/100
+SystemRescueCd: 60/100
+Knoppix: 85/100
